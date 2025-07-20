@@ -25,10 +25,11 @@ TV-B-Gone is a simple but powerful universal remote that can turn off almost any
 ### Notes:
 - The IR beam works best when pointed at the TV directly within 5–10 meters.
 - You can use more LEDs to increase range.
-- ![17530135441327243743740358195185](https://github.com/user-attachments/assets/7280942b-303a-4dad-8549-fc190c5ccf37)
+- !
+
+![17530143134557972340316791919933](https://github.com/user-attachments/assets/0efb7c05-e7e2-4038-b447-8f6ddbd340f9)
 
 
-![17530139896643303346642690129856](https://github.com/user-attachments/assets/a92286a6-2bbd-4462-aa94-4d83d74667e2)
 
 # TV-B-Gone ESP8266 (D1 Mini Version)
 
