@@ -57,7 +57,8 @@ I have compiled the firmware into a `.bin` file to make it easy for others to fl
 3. Flash the `.bin` file provided in this repo:
    ```bash
    esptool.py --port /dev/ttyUSB0 write_flash 0x00000 Tv-b-gone-esp8266d1mini.bin
-![17530131364984736583535560755682](https://github.com/user-attachments/assets/7a46a5fb-fa5d-435d-88ea-fd7c1f159004)
+![17530143729596797068307773369643](https://github.com/user-attachments/assets/73c241f7-a964-456e-87b3-402218f3ae2e)
+
 ## Wiring Instructions (Hardware Setup)
 
 This project uses an ESP8266 board (NodeMCU or D1 Mini), IR LEDs, a 2N2222 transistor, a push-button, and a power switch. Below is a clear guide to connect everything:
