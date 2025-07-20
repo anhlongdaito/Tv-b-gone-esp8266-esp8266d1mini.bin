@@ -78,7 +78,7 @@ This project uses an ESP8266 board (NodeMCU or D1 Mini), IR LEDs, a 2N2222 trans
   - When **switch is OFF** → D2 is LOW → EU
   - When **switch is ON** → D2 is HIGH → NA
 
-> This switch acts as a safety trigger: it only allows transmission when toggled ON.
+> This switch has the effect of switching the ir encoding region.
 
 - **Power Supply:**
   - Use a 3.7V Li-ion battery (like 18650) with a boost converter or directly via USB for the ESP8266.
