@@ -27,6 +27,9 @@ TV-B-Gone is a simple but powerful universal remote that can turn off almost any
 - You can use more LEDs to increase range.
 - ![17530135441327243743740358195185](https://github.com/user-attachments/assets/7280942b-303a-4dad-8549-fc190c5ccf37)
 
+
+![17530139896643303346642690129856](https://github.com/user-attachments/assets/a92286a6-2bbd-4462-aa94-4d83d74667e2)
+
 # TV-B-Gone ESP8266 (D1 Mini Version)
 
 This is a compact version of the classic [TV-B-Gone](https://github.com/adafruit/tvbgone) project, using an **ESP8266 D1 Mini** and **IR LEDs** to turn off most television sets in public places.
@@ -72,6 +75,7 @@ This project uses an ESP8266 board (NodeMCU or D1 Mini), IR LEDs, a 2N2222 trans
 - **Push-button:**
   - Connect one leg to **GPIO D6**.
   - Connect the other leg to **GND**.
+![17530134325723276798421658483165](https://github.com/user-attachments/assets/0d484c54-de27-4afb-9945-ed2bd0afdb0f)
 
 - **Switch (Power control):**
   - Connect between **GND** and **GPIO D2**.
@@ -85,6 +89,6 @@ This project uses an ESP8266 board (NodeMCU or D1 Mini), IR LEDs, a 2N2222 trans
 
 Make sure your components are securely soldered, and IR LEDs are properly aligned to point at the TV for best range!
 
-![17530134325723276798421658483165](https://github.com/user-attachments/assets/0d484c54-de27-4afb-9945-ed2bd0afdb0f)
+![17530142686188291684413337720209](https://github.com/user-attachments/assets/fe7d8238-6677-49ec-9f20-539edf18623f)
 
 
