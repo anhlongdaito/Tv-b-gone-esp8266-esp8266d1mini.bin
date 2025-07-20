@@ -75,8 +75,8 @@ This project uses an ESP8266 board (NodeMCU or D1 Mini), IR LEDs, a 2N2222 trans
 
 - **Switch (Power control):**
   - Connect between **GND** and **GPIO D2**.
-  - When **switch is OFF** → D2 is LOW → Device stays idle.
-  - When **switch is ON** → D2 is HIGH → IR transmission is enabled.
+  - When **switch is OFF** → D2 is LOW → EU
+  - When **switch is ON** → D2 is HIGH → NA
 
 > This switch acts as a safety trigger: it only allows transmission when toggled ON.
 
