@@ -65,7 +65,7 @@ This project uses an ESP8266 board (NodeMCU or D1 Mini), IR LEDs, a 2N2222 trans
   - Connect the **anodes** (long legs) together through a **220–330 ohm resistor** to the **collector (C)** of the transistor.
 
 - **2N2222 Transistor:**
-  - **Collector (C)** → Connected to IR LEDs' anodes (via resistor).
+  - **Collector (C)** → Connected to IR LEDs' anodes 
   - **Emitter (E)** → Connected to **GND**.
   - **Base (B)** → Connected to a **2.2kΩ resistor**, then to **GPIO D5** (or other pin you use).
 
