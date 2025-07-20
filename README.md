@@ -43,7 +43,7 @@ I have compiled the firmware into a `.bin` file to make it easy for others to fl
 
 - ESP8266 D1 Mini
 - 1–4 IR LEDs (e.g. TSAL6200)
-- Resistors (100–220 ohm depending on LED config)
+- Resistors (100–150 ohm depending on LED config)
 - NPN transistor (optional, for driving multiple IR LEDs)
 - Button (to trigger IR burst)
 - Power source (e.g. 18650 battery or USB)
@@ -67,7 +67,7 @@ This project uses an ESP8266 board (NodeMCU or D1 Mini), IR LEDs, a 2N2222 trans
 
 - **IR LEDs (3–5 in parallel):**
   - Connect the **cathodes** (short legs) of all IR LEDs together to **Ground** (GND).
-  - Connect the **anodes** (long legs) together through a **220–330 ohm resistor** to the **collector (C)** of the transistor.
+  - Connect the **anodes** (long legs) together through a **100–150 ohm resistor** to the **collector (C)** of the transistor.
 
 - **2N2222 Transistor:**
   - **Collector (C)** → Connected to IR LEDs' anodes 
