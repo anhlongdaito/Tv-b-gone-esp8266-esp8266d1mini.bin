@@ -24,3 +24,4 @@ I have compiled the firmware into a `.bin` file to make it easy for others to fl
 3. Flash the `.bin` file provided in this repo:
    ```bash
    esptool.py --port /dev/ttyUSB0 write_flash 0x00000 Tv-b-gone-esp8266d1mini.bin
+![17530131364984736583535560755682](https://github.com/user-attachments/assets/7a46a5fb-fa5d-435d-88ea-fd7c1f159004)
